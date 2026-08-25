@@ -1,0 +1,5 @@
+target/
+.mvn/repository/
+.env
+*.log
+src/main/resources/application-local.properties
